@@ -27,7 +27,7 @@ Clone the repository:
 ``` mvn clean install ```
 ``` mvn test ```
 
-TestRunner file can also be directly be executed.The tests will execute in parallel, and you can view the test results in the target/cucumber-reports directory. Individual features acn also be executed
+TestRunner file can also be directly be executed.The tests will execute in parallel, and you can view the test results in the target/cucumber-reports directory. Individual features can also be executed directly through IntelliJ.
 
 # Jenkins Setup:
 1. Add maven integration plugin.
