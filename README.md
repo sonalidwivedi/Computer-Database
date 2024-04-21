@@ -36,5 +36,6 @@ TestRunner file can also be directly be executed.The tests will execute in paral
 4. Generate the build
 
 # Cucumber Report on Jenkins:
-<img width="960" alt="image" src="https://github.com/sonalidwivedi/Computer-Database/assets/114146513/af34c90a-6928-4923-ba8a-3ba612d7d0f8">
+<img width="943" alt="Screenshot 2024-04-21 090156" src="https://github.com/sonalidwivedi/Computer-Database/assets/114146513/236858e5-15ee-455c-8861-fcca649c34df">
+
 
