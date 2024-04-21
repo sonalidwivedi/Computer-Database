@@ -55,7 +55,6 @@ public class AddComputer {
     @When("the user clicks on Add a new computer button and verifies the title")
     public void the_user_clicks_on_Add_a_new_computer_button_and_verifies_the_title() {
         headerText = computerDatabase.addNewComputer();
-        System.out.println(headerText);
         Assert.assertTrue(headerText.contains("Add a computer"));
     }
 
